@@ -1,2 +1,2 @@
-# NAME: เศรษฐวุฒิ สมาเกตุ
+# NAME: Settawut Samaket
 # STUDENT ID: 680610725
